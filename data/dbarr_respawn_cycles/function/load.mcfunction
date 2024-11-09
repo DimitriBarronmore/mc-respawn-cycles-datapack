@@ -1,0 +1,1 @@
+execute unless score RESPAWNCYCLES_FIRST_LOAD dbarr.respawncycles.VARS matches 1 run function dbarr_respawn_cycles:reset

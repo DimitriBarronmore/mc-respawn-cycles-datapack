@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Makes it so when a player dies, they respawn within a wide radius around a semi-random point of interest.",
+        "pack_format": 57
+    }
+}

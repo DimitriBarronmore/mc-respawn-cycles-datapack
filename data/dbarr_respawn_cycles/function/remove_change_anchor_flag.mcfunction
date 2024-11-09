@@ -1,0 +1,1 @@
+scoreboard players reset FLAG_CHANGE_ANCHOR dbarr.respawncycles.VARS
